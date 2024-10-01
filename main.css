@@ -664,12 +664,12 @@ form.input-kehadiran button.btn.btn-dark.mt-5 {
 	/* Landing Pages */
 
 	#front .img-front {
-		clip-path: ellipse(100% 83% at 50% 7%);
-		height: 500px;
+		clip-path: ellipse(100% 90% at 50% 10%);
+		height: 600px;
 	}
 
 	#front .container button {
-		margin: 100px 0;
+		margin: 70px 0;
 	}
 
 	/* Landing Pages */
@@ -803,19 +803,19 @@ form.input-kehadiran button.btn.btn-dark.mt-5 {
 	/* Landing Pages */
 
 	#front .img-front {
-		clip-path: ellipse(100% 83% at 50% 7%);
-		height: 450px;
+		clip-path: ellipse(100% 90% at 50% 10%);
+		height: 500px;
 	}
 
 	#front .container .text {
 		color: white;
-		margin-top: -280px;
+		margin-top: -320px;
 		position: relative;
 		line-height: 10px;
 	}
 
 	#front .container button {
-		margin: 80px 0;
+		margin: 60px 0;
 	}
 
 	/* Homepage */
@@ -930,11 +930,11 @@ form.input-kehadiran button.btn.btn-dark.mt-5 {
 
 	#front .img-front {
 		clip-path: ellipse(100% 95% at 50% 5%);
-		height: 400px;
+		height: 500px;
 	}
 
 	#front .container .text {
-		margin-top: -240px;
+		margin-top: -320px;
 	}
 
 	#front .container button {
@@ -1198,11 +1198,11 @@ form.input-kehadiran button.btn.btn-dark.mt-5 {
 
 	#front .img-front {
 		clip-path: ellipse(100% 95% at 50% 2%);
-		height: 350px;
+		height: 500px;
 	}
 
 	#front .container .text {
-		margin-top: -220px;
+		margin-top: -300px;
 	}
 
 	#front .container button {
@@ -1361,12 +1361,12 @@ form.input-kehadiran button.btn.btn-dark.mt-5 {
 	/* Landing Pages */
 
 	#front .img-front {
-		clip-path: ellipse(100% 95% at 50% 2%);
-		height: 350px;
+		clip-path: ellipse(100% 90% at 50% 5%);
+		height: 500px;
 	}
 
 	#front .container .text {
-		margin-top: -220px;
+		margin-top: -290px;
 	}
 
 	#front .container button {
