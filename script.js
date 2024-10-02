@@ -141,7 +141,7 @@ $(document).ready(function () {
 document.getElementById("landing").style.display = "none";
 document.getElementById("gallery").style.display = "none";
 document.getElementById("story").style.display = "none";
-document.getElementById("guest-book").style.display = "none";
+// document.getElementById("guest-book").style.display = "none";
 document.getElementById("gift").style.display = "none";
 
 function front() {
@@ -149,7 +149,7 @@ function front() {
 	document.getElementById("landing").style.display = "";
 	document.getElementById("gallery").style.display = "";
 	document.getElementById("story").style.display = "";
-	document.getElementById("guest-book").style.display = "";
+	// document.getElementById("guest-book").style.display = "";
 	document.getElementById("gift").style.display = "";
 }
 
